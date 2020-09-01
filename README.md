@@ -1,7 +1,8 @@
 # BDA594
 
 Name: Nicholas Klaiber
-URL:
+
+URL: https://github.com/nklaiber23/BDA594/blob/master/README.md
 
 Question: What is big data?
 
